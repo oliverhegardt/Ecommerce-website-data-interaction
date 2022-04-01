@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/oliverhegardt/Ecommerce-website-data-interaction#readme",
   "dependencies": {
+    "crypto-js": "^4.1.1",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "moongoose": "0.0.5",
