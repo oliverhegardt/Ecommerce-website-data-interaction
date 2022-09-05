@@ -9,4 +9,6 @@ const router = require("express").Router();
 //Decide wheter token belongs to admin or client
 router.put("/:id", verfiyToken, (req, res) => {});
 
+//exporting router
+
 module.exports = router;
